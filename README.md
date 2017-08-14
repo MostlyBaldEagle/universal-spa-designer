@@ -1,7 +1,7 @@
 # universal-spa-designer
-A universal SPA designer tool, with back for building a SPA in any framework (requires plugin)
+A universal Single Page Application design tool, with back for building a SPA in any framework (requires plugin)
 
-Single page application builder with WYSIWYG editor and backend support for multiple frameworks.
+SPA builder with WYSIWYG editor and backend support for multiple frontend frameworks.
 
 Exportable ui-design file
 
