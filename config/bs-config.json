@@ -1,0 +1,11 @@
+{
+    "port": 3001,
+    "files": [
+        "./src/**/*.{html,htm,css,js,jsx,tsx,ts,svg}"
+    ],
+    "server": {
+        "baseDir": "./src",
+        "index": "./public"
+    },
+    "browser":["google chrome", "safari", "firefox"]
+}
